@@ -38,3 +38,4 @@
 Документація з використання Git розміщена за [посиланням](https://docs.github.com/en).
 
 Виконав : ***Середа Іван***
+Email: vt221_bio@student.ztu.edu.ua
